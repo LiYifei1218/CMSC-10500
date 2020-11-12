@@ -1,0 +1,20 @@
+Do you have any experience programming?
+    Started learning basic programming since 5th grade; have taken AP CS courses in school and taken two AP CS exams. Now familiar with python and java(a little bit javascript and swift).
+
+Do you have access to a computer with macOS?
+    Yes, I have a MacBookPro with xcode installed.
+
+Are you in high school? undergraduate? graduate? Other? If you are in high school, are you interested in studying computer science after graduating? If you are not in high school, what have you spent the most time studying?
+    I'm a highschool student and interested in studing computer science in college.
+
+What are you hoping to get out of this course?
+    - Swfit language skills
+    - A comprehensive structure of designing programs and algorithms
+    - Skills of basic iOS development
+
+(Optional) What do you like to do for fun, both pre- and post-COVID?
+    - Video editing
+    - Listen and sing songs
+    - Delve in computer softwares and hardwares (like implementing open source projects) with friends
+    - Setting up websites (blogs, forums)and game servers. 
+    - Make desserts and drinks
